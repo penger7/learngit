@@ -4,7 +4,13 @@ Git命令使用方法（配合常用使用场景）
 	git init
 	git add <file>
 	git commit -m "说明信息"
-	
-	
+	git status
+	git diff
+	git log --pretty=oneline
+	git reset --hard
+	git reflog
+	git checkout -- file
+	git reset HEAD file
+	git rm
 
 流程一：
