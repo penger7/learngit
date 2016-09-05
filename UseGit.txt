@@ -1,0 +1,10 @@
+Git命令使用方法（配合常用使用场景）
+
+常用命令：
+	git init
+	git add <file>
+	git commit -m "说明信息"
+	
+	
+
+流程一：
