@@ -12,5 +12,6 @@ Git命令使用方法（配合常用使用场景）
 	git checkout -- file
 	git reset HEAD file
 	git rm
+	
 
 流程一：
